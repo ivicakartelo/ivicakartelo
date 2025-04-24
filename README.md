@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ivica Kartelo, dipl. eng. el. prof.
 
-I'm a full-stack developer currently building modern **E-Commerce platforms** powered by:
+I'm the teacher for full-stack developer currently building modern **E-Commerce platforms** powered by:
 
 🚀 React · Redux · Express.js · MySQL  
 🧠 Integrating cutting-edge **Generative AI**  
