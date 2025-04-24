@@ -9,7 +9,7 @@ I'm a full-stack developer currently building modern **E-Commerce platforms** po
 ## 🔧 Projects I'm building
 Here are two key apps that make up my E-Commerce system:
 
-- **[e_retail_public](https://github.com/yourusername/e_retail_public)** – Customer-facing storefront with React & Redux  
+- **[e_retail_public]([https://github.com/yourusername/e_retail_public](https://github.com/ivicakartelo/e-retail-public))** – Customer-facing storefront with React & Redux  
 - **[e_retail_admin](https://github.com/yourusername/e_retail_admin)** – Admin dashboard to manage inventory, orders, and users
 
 ## 📚 What's next?
