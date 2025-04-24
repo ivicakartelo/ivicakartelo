@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Ivica Kartelo, dipl. eng. el. prof.
 
 I'm a full-stack developer currently building modern **E-Commerce platforms** powered by:
 
