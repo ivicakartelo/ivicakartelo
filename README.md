@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Your Name]
 
-<!--
-**ivicakartelo/ivicakartelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer currently building modern **E-Commerce platforms** powered by:
 
-Here are some ideas to get you started:
+🚀 React · Redux · Express.js · MySQL  
+🧠 Integrating cutting-edge **Generative AI**  
+📚 Writing my next books based on real-world applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Projects I'm building
+Here are two key apps that make up my E-Commerce system:
+
+- **[e_retail_public](https://github.com/yourusername/e_retail_public)** – Customer-facing storefront with React & Redux  
+- **[e_retail_admin](https://github.com/yourusername/e_retail_admin)** – Admin dashboard to manage inventory, orders, and users
+
+## 📚 What's next?
+I'm documenting the entire journey in my upcoming books to help others build full-featured, AI-enhanced web apps from scratch.
+
+Let’s connect or collaborate!
+
+---
+🧑‍💻 [GitHub](https://github.com/yourusername) | 📬 [Email Me](mailto:you@example.com)
