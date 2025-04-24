@@ -15,7 +15,6 @@ Here are two key apps that make up my E-Commerce system:
 ## 📚 What's next?
 I'm documenting the entire journey in my upcoming books to help others build full-featured, AI-enhanced web apps from scratch.
 
-Let’s connect or collaborate!
+See you on my YouTube channel www.youtube.com/ivicakartelo
 
 ---
-🧑‍💻 [GitHub](https://github.com/yourusername) | 📬 [Email Me](mailto:you@example.com)
