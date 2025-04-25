@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ivica Kartelo, dipl. eng. el. prof.
+# 👋 Hi there! I'm Ivica Kartelo
 
 I'm the teacher for full-stack developer currently building modern **E-Commerce platforms** powered by:
 
