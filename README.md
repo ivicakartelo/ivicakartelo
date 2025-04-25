@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Ivica Kartelo
 
+<img src="banner.png" alt="Banner" width="100%" />
+
 I'm the teacher for full-stack developer currently building modern **E-Commerce platforms** powered by:
 
 🚀 React · Redux · Express.js · MySQL  
